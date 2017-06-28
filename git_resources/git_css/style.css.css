@@ -27,3 +27,8 @@ p.paragraph{
   font-size: 21px;
   color:gray;
 }
+
+p.footer{
+  color:gray;
+  text-align: right;
+}
