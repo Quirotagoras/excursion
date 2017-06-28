@@ -1,0 +1,19 @@
+html{
+
+  background-color: black;
+}
+
+h1.title{
+  font-family: Verdana;
+  color:white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+p.link{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
